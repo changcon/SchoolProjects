@@ -5,7 +5,7 @@ date: "July 6, 2018"
 output: html_document
 ---
 
-==================================================================================
+=================================================================================
 
 Getting and Cleaning Data Final Project 
 
@@ -13,13 +13,13 @@ Using Data from the Human Activity Recognition Using Smartphones Dataset
 
 by Connie Chang
 
-==================================================================================
+=================================================================================
 
 Data obtained from
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-==================================================================================
+=================================================================================
 
 Script run_analysis.R takes a training data frame ("train_set.txt", 2947 x 561) and 
 test dataset ("test_set.txt", 7352 x 561) and adds the variable names ("features.txt") 
